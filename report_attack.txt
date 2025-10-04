@@ -1,0 +1,35 @@
+=== Suspicious Activity Report ===
+Threshold: 3 failures within 5 minute(s)
+
+Users exceeding threshold:
+ user "admin" had 6 failures (max in window)
+ user "bob" had 5 failures (max in window)
+ user "charlie" had 3 failures (max in window)
+ user "dave" had 4 failures (max in window)
+ user "frank" had 5 failures (max in window)
+ user "guest" had 4 failures (max in window)
+ user "harry" had 6 failures (max in window)
+ user "ivan" had 5 failures (max in window)
+ user "kate" had 5 failures (max in window)
+ user "lewis" had 5 failures (max in window)
+ user "nina" had 4 failures (max in window)
+ user "peter" had 5 failures (max in window)
+ user "root" had 5 failures (max in window)
+ user "test" had 6 failures (max in window)
+
+IPs exceeding threshold:
+ ip 192.0.2.100 had 4 failures (max in window)
+ ip 192.0.2.12 had 5 failures (max in window)
+ ip 192.0.2.77 had 4 failures (max in window)
+ ip 198.51.100.12 had 3 failures (max in window)
+ ip 198.51.100.130 had 5 failures (max in window)
+ ip 198.51.100.200 had 5 failures (max in window)
+ ip 198.51.100.250 had 15 failures (max in window)
+ ip 198.51.100.55 had 5 failures (max in window)
+ ip 198.51.100.77 had 5 failures (max in window)
+ ip 203.0.113.200 had 5 failures (max in window)
+ ip 203.0.113.222 had 6 failures (max in window)
+ ip 203.0.113.30 had 6 failures (max in window)
+ ip 203.0.113.60 had 5 failures (max in window)
+ ip 203.0.113.99 had 6 failures (max in window)
+=================================
